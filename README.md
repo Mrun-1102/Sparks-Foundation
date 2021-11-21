@@ -57,3 +57,18 @@ Dataset link :https://bit.ly/34SRn3b
 Create the Decision Tree classifier and visualize it graphically.
 The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 Dataset link :https://bit.ly/3kXTdox
+
+
+
+# Task-7 : Stock Market Prediction Using Numericasl and Textual Analysis
+Create a hybrid model for stock price/performance prediction using analysis of historical stock prices, and sentimental analysis of news headlines.
+Stock to analyze and predict- SENSEx(S&P BSE SENSEX)
+Download historical stock prices from https://finance.yahoo.com/
+Download textual (news) data from https://bit.ly/36fFPI6
+
+
+
+# Task-8 : Timeline Analysis: Covid-19
+Create a storyboard showing spread of Covid-19 cases in your country or ant region(Asia,Europe,BRICS, etc.) using Tableau,Power BI or SAP
+Identify intresting patterns and possible reasons helping Covid-19 spread with basic as well as advanced charts.
+Download Daily updated .csv file(dataset): https://bit.ly/30d2gdi
